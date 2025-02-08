@@ -1,5 +1,5 @@
 # Wi-Fi-Localization
-Here we collect insightful work on the Wi-Fi localization in the fields of ... and beyond.
+Here we collect insightful work on the Wi-Fi localization in the fields of ... and beyond.\\
 Date format: DD/MM/YYYY
 
 **2021**
