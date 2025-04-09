@@ -11,7 +11,9 @@ Haoyu Zhang, Dongheng Zhang, et al.
 Submitted on 2025/2/28
 
 3.**2015**  **SpotFi: Decimeter Level Localization Using WiFi**  
-Manikanta Kotaru, Kiran Joshi, 4.7.
+Manikanta Kotaru, Kiran Joshi, 4.7.  
+子载波带来超分辨率，AOA/TOF，平滑CSI，采样时间偏移STO  
+高斯混合聚类/似然，直射路径，多AP，最小二乘优化/序列凸优化等
 
 4.**2024**  **TransMUSIC: A Transformer-Aided Subspace Method for DOA Estimation with Low-Resolution ADCs**  
 Junkai Ji, Wei Mao, 4.9.
