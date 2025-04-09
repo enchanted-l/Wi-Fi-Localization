@@ -16,7 +16,9 @@ Manikanta Kotaru, Kiran Joshi, 4.7.
 高斯混合聚类/似然，直射路径，多AP，最小二乘优化/序列凸优化等
 
 4.**2024**  **TransMUSIC: A Transformer-Aided Subspace Method for DOA Estimation with Low-Resolution ADCs**  
-Junkai Ji, Wei Mao, 4.9.
+Junkai Ji, Wei Mao, 4.9.  
+结合Transformer模型与经典子空间方法，通过注意力机制捕捉全局相关性，直接从量化数据中学习噪声子空间  
+实虚部分离，无网格，量化失真
 
 5.**2021**  **A Machine Learning Approach to DoA Estimation and Model Order Selection for Antenna Arrays With Subarray Sampling**  
 Andreas Barthelme and Wolfgang Utschick, 4.3.
