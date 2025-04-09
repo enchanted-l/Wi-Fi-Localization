@@ -11,6 +11,16 @@ Submitted on 11/02/2021
 Submitted on 2025/2/28
 
 **2015**  
-**SpotFi: Decimeter Level Localization Using WiFi**,SpotFi: Decimeter Level Localization Using WiFi.
+**SpotFi: Decimeter Level Localization Using WiFi**,Manikanta Kotaru, Kiran Joshi, 4.7.
 
+**2024**
+**TransMUSIC: A Transformer-Aided Subspace Method for DOA Estimation with Low-Resolution ADCs**，Junkai Ji, Wei Mao, 4.9.
 
+**2021**  
+**A Machine Learning Approach to DoA Estimation and Model Order Selection for Antenna Arrays With Subarray Sampling**,Andreas Barthelme and Wolfgang Utschick, 4.3.
+
+**2025**  
+**A Comparative Study of Invariance-Aware Loss Functions for Deep Learning-based Gridless Direction-of-Arrival Estimation**,Kuan-Lin Chen, Bhaskar D. Rao, 4.9.
+
+**2025**  
+**Subspace Representation Learning for Sparse Linear Arrays to Localize More Sources Than Sensors: A Deep Learning Methodology**,Kuan-Lin Chen, Bhaskar D. Rao, 4.11.
