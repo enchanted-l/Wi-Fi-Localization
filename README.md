@@ -32,4 +32,4 @@ Kuan-Lin Chen, Bhaskar D. Rao, 4.11.
 8.**2024**  **Fingerprinting Database Development Methods for Reconfigurable Intelligent Surface Assisted Indoor Positioning System**  
 AISHA JAVED , NAVEED UL HASSAN, 4.16.  
 提升RIS辅助IPS（室内定位系统）的性能。E2E传播建模技术3种：全波电磁仿真模型、混合模型1 2  
-RIS配置优化算法 连续相位优化：使用梯度上升算法   离散相位优化：使用遗传算法（GA），适用于单元细胞相位离散的情况。
+RIS配置优化算法 连续相位优化：使用梯度上升算法；离散相位优化：使用遗传算法（GA）
