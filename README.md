@@ -39,4 +39,13 @@ Yi Zhang,Yue Zheng, 5.21.
 extract domain-independent features，多普勒频移DFS，体坐标速度剖面BVP，屏蔽人背后的接收器。图9，KNN算法  
 
 10.**2017**  **IndoTrack: Device-Free Indoor Human Tracking with Commodity Wi-Fi**  
-XiangLi,DaqingZhang,, 5.23.  
+XiangLi,DaqingZhang, 5.27.  
+DOPPLER-MUSIC
+
+11.**2014**  **A Real-Time High Resolution Passive WiFi DopplerRadar and Its Applications**  
+Bo Tan, Karl Woodbridge, 5.23.  
+batch processing,a pipeline processing flow,cross ambiguity function,windowing method
+
+12.**2016**  **Trained-Once Device-Free Crowd Counting and Occupancy Estimation Using WiFi: A Doppler Spectrum Based Approach**  
+Simone Di Domenico, Giovanni Pecoraro, 5.23.  
+提取多普勒频谱，子载波/包/信道n。各种频谱描述符，选择的特征子集是整体识别精度和特征空间维度之间的最佳权衡
