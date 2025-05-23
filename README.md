@@ -33,3 +33,10 @@ Kuan-Lin Chen, Bhaskar D. Rao, 4.11.
 AISHA JAVED , NAVEED UL HASSAN, 4.16.  
 提升RIS辅助IPS（室内定位系统）的性能。E2E传播建模技术3种：全波电磁仿真模型、混合模型1 2  
 RIS配置优化算法 连续相位优化：使用梯度上升算法；离散相位优化：使用遗传算法（GA）
+
+9.**2019**  **Widar3.0: Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi**  
+Yi Zhang,Yue Zheng, 5.21.   
+extract domain-independent features，多普勒频移DFS，体坐标速度剖面BVP，屏蔽人背后的接收器。图9，KNN算法  
+
+10.**2017**  **IndoTrack: Device-Free Indoor Human Tracking with Commodity Wi-Fi**  
+XiangLi,DaqingZhang,, 5.23.  
