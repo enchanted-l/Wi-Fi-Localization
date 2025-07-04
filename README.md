@@ -42,7 +42,7 @@ extract domain-independent features，多普勒频移DFS，体坐标速度剖面
 XiangLi,DaqingZhang, 5.27.  
 DOPPLER-MUSIC
 
-11.**2014**  **A Real-Time High Resolution Passive WiFi DopplerRadar and Its Applications**  
+11.**2014**  **A Real-Time High Resolution Passive WiFi Doppler Radar and Its Applications**  
 Bo Tan, Karl Woodbridge, 5.23.  
 batch processing,a pipeline processing flow,cross ambiguity function,windowing method
 
@@ -51,7 +51,8 @@ Simone Di Domenico, Giovanni Pecoraro, 5.23.
 提取多普勒频谱，子载波/包/信道n。各种频谱描述符，选择的特征子集是整体识别精度和特征空间维度之间的最佳权衡
 
 13.**2020**  **mmEye: Super-Resolution Millimeter Wave Imaging**  
-Feng Zhang , Chenshu Wu , Beibei Wang , and K. J. Ray Liu , 7.4.  
+Feng Zhang , Chenshu Wu , Beibei Wang , and K. J. Ray Liu , 7.4. 
+60GHz Wi-Fi，MUSIC算法联合发射机平滑技术
 
 14.**2020**  **WiDIGR: Direction-Independent Gait Recognition System Using Commercial Wi-Fi Devices**  
 Lei Zhang , Cong Wang , Maode Ma ,and Daqing Zhang, 7.2.  
@@ -64,3 +65,7 @@ Motion Navigation Primitive(MNP)
 16.**2024**  **WiFi-CSI Difference Paradigm: Achieving Efficient Doppler Speed Estimation for Passive Tracking**  
 WENWEI LI, RUIYANG GAO, 6.24.  
 多普勒速度，差分CSI（幅度、相位），动态/静态分量分离，最佳候选CSI
+
+17.**2024**  **MMTAI: Biometrics-assisted Multi-person Tracking with mmWave Radar**  
+Yande Chen, Yuan He, 6.24.   
+multiperson tracking，biometric features，scalp responses
