@@ -49,3 +49,18 @@ batch processing,a pipeline processing flow,cross ambiguity function,windowing m
 12.**2016**  **Trained-Once Device-Free Crowd Counting and Occupancy Estimation Using WiFi: A Doppler Spectrum Based Approach**  
 Simone Di Domenico, Giovanni Pecoraro, 5.23.  
 提取多普勒频谱，子载波/包/信道n。各种频谱描述符，选择的特征子集是整体识别精度和特征空间维度之间的最佳权衡
+
+13.**2020**  **mmEye: Super-Resolution Millimeter Wave Imaging**  
+Feng Zhang , Chenshu Wu , Beibei Wang , and K. J. Ray Liu? , 7.4.  
+
+14.**2020**  **WiDIGR: Direction-Independent Gait Recognition System Using Commercial Wi-Fi Devices**  
+Lei Zhang , Cong Wang , Maode Ma ,and Daqing Zhang, 7.2.  
+步态识别，Fresnel model 方向无关信号谱图，PSD kurtosis，Gabor filter
+
+15.**2021**  **Towards Position-Independent Sensing for Gesture Recognition with Wi-Fi**  
+RUIYANG GAO,MI ZHANG, DAQING ZHANG, 7.2.  
+Motion Navigation Primitive(MNP)
+
+16.**2024**  **WiFi-CSI Difference Paradigm: Achieving Efficient Doppler Speed Estimation for Passive Tracking**  
+WENWEI LI, RUIYANG GAO, 6.24.  
+多普勒速度，差分CSI（幅度、相位），动态/静态分量分离，最佳候选CSI
