@@ -51,7 +51,7 @@ Simone Di Domenico, Giovanni Pecoraro, 5.23.
 提取多普勒频谱，子载波/包/信道n。各种频谱描述符，选择的特征子集是整体识别精度和特征空间维度之间的最佳权衡
 
 13.**2020**  **mmEye: Super-Resolution Millimeter Wave Imaging**  
-Feng Zhang , Chenshu Wu , Beibei Wang , and K. J. Ray Liu? , 7.4.  
+Feng Zhang , Chenshu Wu , Beibei Wang , and K. J. Ray Liu , 7.4.  
 
 14.**2020**  **WiDIGR: Direction-Independent Gait Recognition System Using Commercial Wi-Fi Devices**  
 Lei Zhang , Cong Wang , Maode Ma ,and Daqing Zhang, 7.2.  
