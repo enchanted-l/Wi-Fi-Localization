@@ -68,7 +68,7 @@ WENWEI LI, RUIYANG GAO, 6.24.
 
 17.**2024**  **MMTAI: Biometrics-assisted Multi-person Tracking with mmWave Radar**  
 Yande Chen, Yuan He, 6.24.   
-multiperson tracking，biometric features，scalp responses
+multi person tracking，biometric features，scalp responses
 
 18.**2023**  **Wi-Prox System : Proximity Estimation of Non-directly Connected Devices via Sim2Real Transfer Learning**  
 Yuchong Gao, Guoxuan Chi2, 7.10.   
