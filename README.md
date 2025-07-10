@@ -69,3 +69,10 @@ WENWEI LI, RUIYANG GAO, 6.24.
 17.**2024**  **MMTAI: Biometrics-assisted Multi-person Tracking with mmWave Radar**  
 Yande Chen, Yuan He, 6.24.   
 multiperson tracking，biometric features，scalp responses
+
+18.**2023**  **Wi-Prox System : Proximity Estimation of Non-directly Connected Devices via Sim2Real Transfer Learning**  
+Yuchong Gao, Guoxuan Chi2, 7.10.   
+迁移学习下的无线设备间的距离度量，多分辨率空间编码器。复数到实数的转换；最短无障碍距离（SNBD），考虑两个设备之间的障碍物的影响
+
+19.**2023**  **Efficient IoT Devices Localization Through Wi-Fi CSI Feature Fusion and Anomaly Detection**  
+Yan Li , Jie Yang, 7.11.   
